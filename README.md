@@ -22,3 +22,7 @@ Open an issue, submit a PR, or start a discussion.
 ## 📜 License
 Released under the **MIT License**.
 
+---
+
+## 📩 Download
+coming soon
