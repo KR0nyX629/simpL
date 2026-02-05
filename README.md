@@ -19,10 +19,12 @@ Open an issue, submit a PR, or start a discussion.
 
 ---
 
-## 📜 License
-Released under the **MIT License**.
+## 📩 Download
+Click, releases, and download the latest version. No
+setup file required! Soo much simpLer
 
 ---
 
-## 📩 Download
-coming soon
+## 📜 License
+Released under the **MIT License**.
+
